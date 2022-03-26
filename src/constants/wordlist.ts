@@ -431,7 +431,6 @@ export const WORDS = [
 "EMPLEA",
 "EMPLEO",
 "ENAGUE",
-"ENCROS",
 "ENDOSA",
 "ENGLES",
 "ENKAHA",
