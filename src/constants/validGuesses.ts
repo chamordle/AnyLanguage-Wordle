@@ -432,7 +432,6 @@ export const VALIDGUESSES = [
 "EMPLEA",
 "EMPLEO",
 "ENAGUE",
-"ENCROS",
 "ENDOSA",
 "ENGLES",
 "ENKAHA",
