@@ -25,7 +25,7 @@ export const ORTHOGRAPHY = [
 ]
 
 if (CONFIG.normalization) {
-  ORTHOGRAPHY.forEach(
+  ORTHOGRAPHY.forEach( 
     (val, i) => (ORTHOGRAPHY[i] = val.normalize(CONFIG.normalization))
   )
 }
