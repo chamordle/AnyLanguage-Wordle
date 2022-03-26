@@ -2033,7 +2033,6 @@ export const VALIDGUESSES = [
 "MENTO'",
 "MEPPA'",
 "MERITU",
-"MERIZO",
 "MESGE'",
 "MESGO'",
 "MESKLA",
