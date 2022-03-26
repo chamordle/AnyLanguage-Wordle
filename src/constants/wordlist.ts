@@ -1214,7 +1214,6 @@ export const WORDS = [
 "MENTO'",
 "MEPPA'",
 "MERITU",
-"MERIZO",
 "MESGE'",
 "MESGO'",
 "MESKLA",
